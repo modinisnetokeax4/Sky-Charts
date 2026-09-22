@@ -211,4 +211,4 @@ Sky Charts is offered as a full free version with all features and updates inclu
 Start your celestial journey today with Sky Charts! Download now and explore the universe like never before!
 
 ---
-**Last updated:** 2026-09-21 23:56:23 UTC
+**Last updated:** 2026-09-22 04:36:14 UTC
